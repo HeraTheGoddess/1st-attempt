@@ -1,0 +1,19 @@
+
+'Declaring&Displaying'
+First_Name='Justin'
+Surname='Caylip'
+message=First_Name +  '[' + Surname + ']' + 'is a coder '
+print(message)
+
+
+'Different types of strings '
+"1"
+message=First_Name + '[ ' + Surname + ' ]' + ' is a coder '
+
+"2"
+'Justin'
+"3"
+Email=" Good Mrs Garnish "
+'Allowing certain amount of  numbers /typed in  slot '
+Name='Anna'
+print((Name)[-1:3])
